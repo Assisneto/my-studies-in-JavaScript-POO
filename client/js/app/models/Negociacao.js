@@ -20,7 +20,6 @@ class Negociacao {
     return this._quantidade * this. _valor;
   }
 }
-
 // Teste Programação defensiva
 var hoje = new Date();
 
