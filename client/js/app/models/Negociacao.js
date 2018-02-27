@@ -21,12 +21,10 @@ class Negociacao {
   }
 }
 // Teste Programação defensiva
-var hoje = new Date();
+/*var hoje = new Date();
 
 var n1 = new Negociacao(hoje, 5, 700);
 
 console.log(n1.data);
 
-hoje.setDate(11);
-
-console.log(n1.data);
+hoje.setDate(11);*/
